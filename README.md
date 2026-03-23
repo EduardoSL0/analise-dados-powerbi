@@ -1,22 +1,46 @@
 # 📊 Análise de Dados com Power BI
 
 ## 📌 Sobre o projeto
-Este projeto foi desenvolvido com o objetivo de analisar dados e apresentar informações de forma visual e estratégica utilizando o Power BI.
+Este projeto foi desenvolvido com o objetivo de transformar dados brutos em informações estratégicas por meio da criação de um dashboard interativo no Power BI.
 
-## 🚀 O que foi feito
-- Importação e tratamento de dados
-- Criação de dashboard interativo
-- Análise de indicadores importantes
+## 🎯 Objetivo
+Analisar dados de vendas e produtos, gerando indicadores que auxiliem na tomada de decisão.
+
+## 🚀 Etapas do projeto
+
+### 🔹 Tratamento de dados (Power Query)
+- Filtro e organização de datas (ano e mês em coluna única)
+- Limpeza e padronização dos dados
+
+### 🔹 Modelagem de dados
+- Relacionamento entre tabela de vendas e tabela de produtos
+- Estruturação do modelo para melhor análise
+
+### 🔹 Criação de métricas
+- Cálculo de custo unitário
+- Cálculo de receita
+- Cálculo de margem de lucro
+
+### 🔹 Desenvolvimento do dashboard
+- Criação de gráficos e indicadores visuais
+- Organização das informações para fácil interpretação
 
 ## 🛠️ Ferramentas utilizadas
-- Power BI
+- Power BI (Power Query e Modelagem)
 - Excel (base de dados)
 
-## 📷 Preview do Dashboard
-(Coloque aqui a imagem do dashboard)
+## 📊 Insights obtidos
+- Visualização clara da relação entre custo, receita e margem
+- Identificação de padrões nas vendas ao longo do tempo
+- Melhor entendimento do desempenho dos produtos
 
-## 📎 Arquivo do projeto
-O arquivo .pbix está disponível neste repositório.
+## 📷 Preview do Dashboard
+![Dashboard](imagens/dashboard.png)
+
+## 📎 Arquivos
+- Base de vendas
+- Cadastro de produtos
+- Arquivo `.pbix` disponível neste repositório
 
 ## 👨‍💻 Autor
 Eduardo de Souza Leite
